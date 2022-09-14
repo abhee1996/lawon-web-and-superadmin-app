@@ -1,0 +1,15 @@
+.hsnPagination {
+    text-align: center;
+}
+.hsnLoadMore {
+    border: 1px solid #000000;
+    background: #ffffff;
+    box-shadow: none;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 7px 30px;
+    display: block;
+    margin: auto;
+}
+
+

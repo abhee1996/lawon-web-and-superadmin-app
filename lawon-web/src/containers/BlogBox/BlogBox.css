@@ -1,0 +1,87 @@
+.blogContent {
+    padding: 70px 0;
+    background: #fff;
+}
+.blogContent .blogBox {
+    width:50%;
+    display: inline-block;
+    float: left;
+    margin-bottom: 30px;
+    padding-left:15px;
+    padding-right:15px;
+}
+.blogContent .blogBox .blogHolder {
+    -webkit-transition: ease 0.2s all;
+    -moz-transition: ease 0.2s all;
+    -ms-transition: ease 0.2s all;
+    -o-transition: ease 0.2s all;
+    transition: ease 0.2s all;
+}
+.blogImgHolder {
+    width: 540px;
+    height: 250px;
+    display: block;
+    overflow: hidden;
+}
+.blogContent .blogBox .blogHolder:hover {
+    box-shadow: 0px 0px 8px 0 #aaa;
+    -webkit-transition: ease 0.2s all;
+    -moz-transition: ease 0.2s all;
+    -ms-transition: ease 0.2s all;
+    -o-transition: ease 0.2s all;
+    transition: ease 0.2s all;
+    -webkit-transform: translateY(-5px);
+    -moz-transform: translateY(-5px);
+    -ms-transform: translateY(-5px);
+    -o-transform: translateY(-5px);
+    transform: translateY(-5px);
+}
+.blogContent .blogBox .blogHolder {
+    -webkit-transition: ease 0.2s all;
+    -moz-transition: ease 0.2s all;
+    -ms-transition: ease 0.2s all;
+    -o-transition: ease 0.2s all;
+    transition: ease 0.2s all;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+.blogImgHolder img {
+    width: 100%;
+    height: 100%;
+}
+.blogImgHolder img {
+    width: 100%;
+    height: auto;
+    margin-top: -65px;
+}
+.blogDetail {
+    padding: 15px;
+}
+.categoriesLink a {
+    font-size: 18px;
+    color: #FDB31B;
+    text-decoration: none;
+}
+.entryTitle {
+    margin: 0 0 18px;
+    line-height: 1;
+    height: 48px;
+}
+.entryTitle a {
+    color: #3f3f3f;
+    font-size: 18px;
+    text-decoration: none;
+}
+.postUser {
+    font-size: 95%;
+}
+.postUser .author {
+    font-size: 18px;
+    color: #333333;
+    padding-right: 70px;
+}

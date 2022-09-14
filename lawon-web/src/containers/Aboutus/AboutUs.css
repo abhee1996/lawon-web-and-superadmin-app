@@ -1,0 +1,119 @@
+.qualityLegal, .weAreLawOn, .ourStory, .expertAdvice {
+    padding: 60px 0;
+    background: #fff;
+}
+.qualityLegal {
+    padding: 108px 0;
+    background: #fff;
+}
+.container {
+    position: relative;
+}
+.qualityLegal h1 {
+    font-size: 48px;
+    text-align: center;
+    width: 490px;
+    margin: 0 auto 60px;
+    color: #3F3F3F;
+    font-weight: 500;
+}
+.qualityLegal img {
+    width: 880px;
+    display: block;
+    margin: auto;
+}
+
+.weAreLawOn .row, .ourStory .row, .expertAdvice .row {
+    width: 920px;
+    margin: auto;
+}
+.weAreLawOn h2, .ourStory h2, .expertAdvice h2, .legalQueries h2, .areasLawOn h2, .termsPrivacyContent h2 {
+    font-size: 32px;
+    color: #6C716D;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.weAreLawOn .col-sm-8 p:first-child {
+    font-size: 22px;
+    font-weight: 400;
+    color: #3F3F3F;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    line-height: 1.1;
+}
+.weAreLawOn p, .ourStory p, .expertAdvice p, .legalQueries p, .areasLawOn p, .termsPrivacyContent p, .termsPrivacyContent ul > li {
+    font-size: 16px;
+    font-weight: 400;
+    color: #3F3F3F;
+}
+
+.ourStory h2 {
+    margin-bottom: 35px;
+}
+.ourStory img {
+    width: 90%;
+    height: auto;
+}
+.ourStory p:first-child {
+    padding-top: 75px;
+}
+.signature {
+    width: 220px;
+    border-top: 1px solid #6C716D;
+    padding-top: 10px;
+    margin-top: 150px;
+}
+.signature h5 {
+    font-size: 22px;
+    font-weight: 500;
+    color: #6C716D;
+    margin: 0;
+}
+.expertAdvice {
+    overflow: hidden;
+}
+.expertAdvice h2 {
+    margin-top: 145px;
+}
+.expertAdvice img {
+    width: 760px;
+    position: relative;
+    left: -320px;
+    z-index: 1;
+}
+.legalQueries img {
+    position: relative;
+    left: -365px;
+    top: 0;
+    width: 990px;
+    z-index: 0;
+}
+.expert-ad{
+    z-index: 3;
+}
+.legalQueries h2 {
+    margin-top: 305px;
+}
+.areasLawOn h2 {
+    text-align: center;
+    margin-bottom: 35px;
+}
+.areasLawOn h3 {
+    font-weight: 500;
+    font-size: 22px;
+    color: #FEB41D;
+    height: 50px;
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+.areasLawOn {
+    padding: 0 0 110px;
+    text-align: center;
+    background: #fff;
+}
+.legalQueries{
+    background: #fff;
+}

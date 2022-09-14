@@ -1,0 +1,68 @@
+.background{
+    background-image: url("/images/realLegalHelp.jpg")
+}
+.realLegalHelp {
+    background-size: cover !important;
+    background-repeat: no-repeat;
+}
+.smartleague {
+    
+    padding: 155px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #FFFFFF;
+}
+.container {
+    position: relative;
+}
+h4, .h4 {
+    font-size: 18px;
+}
+h4, .h4, h5, .h5, h6, .h6 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.smartleague h2 {
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 35px;
+}
+a:focus, a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+.smartleague p {
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0 160px;
+    text-align: center;
+}
+p {
+    margin: 0 0 10px;
+}
+.smartleague .universalBtn {
+    margin: auto;
+}
+.universalBtn {
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    width: 170px;
+    padding: 8px 0;
+    text-align: center;
+    display: block;
+    color: #3F3F3F;
+    background: #feb41d;
+    background: -moz-linear-gradient(left, #feb41d 0%, #ffce6a 100%);
+    background: -webkit-linear-gradient(left, #feb41d 0%,#ffce6a 100%);
+    background: linear-gradient(to right, #feb41d 0%,#ffce6a 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feb41d', endColorstr='#ffce6a',GradientType=1 );
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #FEB41D;
+    border-radius: 4px;
+}
+a {
+    text-decoration: none !important;
+}

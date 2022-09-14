@@ -1,0 +1,50 @@
+.blogHead {
+    text-align: center;
+    padding-top: 80px;
+    background: #EBEBEB;
+    padding-bottom: 35px;
+    position: relative;
+}
+.container {
+    position: relative;
+}
+.blogHead img {
+    width: 500px;
+    position: absolute;
+    left: -320px;
+    top: -304px;
+    z-index: 0;
+}
+.blogHead h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.blogHead h2.blog-heading {
+    margin: 0;
+    color: #6F7470;
+    font-size: 30px !important;
+}
+.blogHead .nav.nav-pills {
+    margin-top: 40px;
+}
+.blogHead .nav-pills li {
+    text-align: center;
+    float: none;
+    display: inline-block;
+}
+.blogHead .nav-pills .selected {
+    background: transparent;
+    border-bottom: 2px solid #B5B5B5;
+    border-radius: 0;
+}
+.blogHead .nav-pills button {
+    background: transparent;
+    font-size: 13px;
+    color: #000000;
+    text-transform: uppercase;
+    margin: 0 15px;
+    border: none;
+    line-height: 2.5;
+    padding: 0;
+    font-weight: 400;
+}
